@@ -1,6 +1,6 @@
 package com.jadecross.guestbook;
 
-import static org.junit.jupiter.api.Assertions.asserEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 
 class PostTest {
